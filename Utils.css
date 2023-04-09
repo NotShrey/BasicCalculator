@@ -1,0 +1,21 @@
+.text-center {
+  text-align: center;
+  font-family: "Aboreto", cursive;
+}
+
+.mx-auto {
+  margin: auto;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-cols {
+  flex-direction: column;
+}
+
+.item-center {
+  align-items: center;
+  justify-content: center;
+}
